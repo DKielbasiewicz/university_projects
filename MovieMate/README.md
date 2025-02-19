@@ -18,7 +18,7 @@ The user can choose among 5 options:
 <br>
 <h2>Part 2 – Discussion:</h2>
 
-![Big-O analysis](/assets/Big_o_analysis.png "Big-O analysis")
+![Big-O analysis](/MovieMate/assets/Big_o_analysis.png "Big-O analysis")
 
 <p>At the beginning of my Big-O analysis, I expected that my sorting function (Quick Sort) would show an average complexity according to this algorithm, such as O(n log n). The time should be increased nonlinearly but steadily, and with a bigger dataset and poorly chosen pivot, it should look similar to its worst-case complexity O(n^2).</p>
 
